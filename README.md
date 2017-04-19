@@ -1,4 +1,1 @@
 # MusEx-The-Quest-
-Our application promises the user a full experience that will go beyond a physical visit to the museum but allow the user to have a very personalised experience of the museum. The application will be coupled to a website and the user can have short virtual tours with a 360-degree view as a preview of what they expect to see. They can access background information and interesting facts about the exhibits. The application will allow the user to create a custom tour to guide them to get to sections of interest. They can search for an item's location or get directions for their way around the museum.
-
-The highlight of the application is the 3D view feature which allows the user to purchase the 3D data which they can use to print out replica souvenirs. The user can then relive the museum visit in so many ways even when they are not near the museum
